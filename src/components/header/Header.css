@@ -92,7 +92,7 @@ header {
 /* ******************** MEDIA QUERIES (SMALL DEVICES) ************* */
 @media screen and (max-width: 480px) {
     header {
-        height: 80vh;
+        height: 60vh;
     }
 
     .me {
