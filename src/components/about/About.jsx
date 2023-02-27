@@ -39,9 +39,9 @@ const About = () => {
             </div>
 
             <p>
-            Heyy! That's right. I'm a final-year IT student. As much as I love my work, I'm not someone who codes all day. I'm someone who loves being around people and making new friends.
-              I'm also a hurdler. Which means I love jumping over obstacles both on and off the track.
-              You might say I have a bit of a social butterfly personality, but don't worry, I promise not to flutter away from you too quickly!
+            Heyy! That's right. I'm a final-year IT student. <br/> As much as I love my work, I'm not someone who codes all day. I'm someone who loves being around people and making new friends.
+              <br/>I'm also a hurdler. Which means I love jumping over obstacles both on and off the track.
+              <br/>You might say I have a bit of a social butterfly personality, but don't worry, I promise not to flutter away from you too quickly!<br/>
               So, if you want to,
 
             </p>

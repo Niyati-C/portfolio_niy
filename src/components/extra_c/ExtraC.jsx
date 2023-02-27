@@ -58,8 +58,8 @@ const ExtraC = () => {
       <hr />
       <h3 className='extra_title'>Sports</h3>
       <p className='extra_p'>
-     I've been the Gujarat state champion for many years and represented my state in various national level competitions as a 100m hurdler.
-     I was the University Athletics and Volleyball girls team captain/co-ordinator. I'm glad that I've had a chance to organize events and lead my teams in many inter university competitions as well.
+     I've been the Gujarat state champion for 5+ years. <br/> I represented my state in various national level competitions as a 100m hurdler.<br/>
+     I was the University Athletics and Volleyball girls team captain/co-ordinator.
       </p>
       <div className='container cards'>
         <div>

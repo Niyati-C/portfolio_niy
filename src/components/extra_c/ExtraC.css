@@ -34,12 +34,13 @@ hr {
 
 .extra_p {
     color: var(--color-primary);
-    padding: 2rem 10rem 2rem;
+    padding: 2rem 2rem 2rem;
     justify-content: center;
+    margin-left: 5rem;
 }
 
 .extra-image {
-    width: 20rem;
+    width: 18rem;
     
     overflow: hidden;
     border-radius: 10%;
@@ -69,6 +70,13 @@ hr {
     .container.extra_container {
         width: 60%;
     }
+
+    /* .extra-image {
+        width: 18rem;
+    } */
+    .extra_p {
+        margin-left: 2rem;
+    }
 }
 
 /* ******************** MEDIA QUERIES (SMALL DEVICES) ************* */
@@ -77,6 +85,13 @@ hr {
     width: var(--container-width-sm);
    }
 
+   .extra-image {
+    width: 10rem;
+   }
+
+   .extra_p {
+    margin-left: 2rem;
+   }
 }
 
 

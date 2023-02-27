@@ -10,9 +10,9 @@ header {
     position: relative;
 }
 
-.me-image {
+/* .me-image {
     border-radius: 50%;
-}
+} */
 
 /* **************** CTA ************ */
 .cta {
@@ -45,15 +45,17 @@ header {
 /* **************** ME ************ */
 .me {
 
-    /* background:linear-gradient(var(--color-primary), transparent); */
-    width: 25rem;
-    height: 18.25rem;
+    background:linear-gradient(var(--color-primary), transparent);
+    width: 22rem;
+    height: 25rem;
     position: absolute;
-    left: calc(50% - 12rem);
+    left: calc(50% - 11rem);
     margin-top: 6rem;
     /* border-radius: 2.5rem 2.5rem 2.5rem 2.5rem; */
+    /* left: 50%; */
     overflow: hidden;
-    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+    /* padding: 0.5rem 0.5rem 0.5rem 0.5rem; */
+    border-radius: 12rem 12rem 0 0;
 }
 
 /* **************** SCROLL DOWN ************ */
@@ -71,15 +73,15 @@ header {
 /* ******************** MEDIA QUERIES (MEDIUM DEVICES) ************* */
 @media screen and (max-width: 1024px) {
     header {
-        height: 68vh;
+        height: 80vh;
         margin-bottom: 8rem;
     }
 
     .me {
-        width: 20rem;
-    height: 18.25rem;
+    width: 15rem;
+    height: 20rem;
     position: absolute;
-    left: calc(50% - 9.5rem);
+    left: calc(50% - 7.5rem);
     margin-top: 2.15rem;
     /* border-radius: 2.5rem 2.5rem 2.5rem 2.5rem; */
     overflow: hidden;
@@ -88,16 +90,16 @@ header {
 }
 
 /* ******************** MEDIA QUERIES (SMALL DEVICES) ************* */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
     header {
         height: 45vh;
     }
 
     .me {
-        width: 15rem;
+    width: 10rem;
     height: 10.92rem;
     position: absolute;
-    left: calc(50% - 7rem);
+    left: calc(50% - 5rem);
     margin-top: 2.15rem;
     /* border-radius: 2.5rem 2.5rem 2.5rem 2.5rem; */
     overflow: hidden;
