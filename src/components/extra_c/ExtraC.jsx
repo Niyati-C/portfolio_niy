@@ -1,8 +1,5 @@
 import React from 'react'
 import './ExtraC.css'
-// import Slider from 'react-slick'
-// import 'slick-carousel/slick/slick.css'
-// import 'slick-carousel/slick/slick-theme.css'
 
 import sports1 from '../../assets/sports1.jpg'
 import sports2 from '../../assets/sports2.jpg'

@@ -35,8 +35,8 @@ const Contact = () => {
             <article className='contact_option'>
               <RiWhatsappFill className='contact_option-icon'/>
               <h4>WhatsApp</h4>
-              <h5>+919328846900</h5>
-              <a href="https://api.whatsapp.com/send?phone+919328846900" target="_blank" rel="noreferrer">Send a message</a>
+              <h5>+919664601675</h5>
+              <a href="https://api.whatsapp.com/send?phone=919664601675" target="_blank" rel="noreferrer">Send a message</a>
             </article>
             <article className='contact_option'>
               <RiInstagramFill className='contact_option-icon'/>

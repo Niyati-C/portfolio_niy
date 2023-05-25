@@ -37,6 +37,13 @@ const Experience = () => {
               <article className='experience_details'>
                  <BsCloudCheckFill className='experience_details-icon' />
                  <div>
+                 <h4>PHP</h4>
+                 <small className='text-light'>Intermediate</small>
+                 </div>
+              </article>
+              <article className='experience_details'>
+                 <BsCloudCheckFill className='experience_details-icon' />
+                 <div>
                  <h4>Bootstrap</h4>
                  <small className='text-light'>Experienced</small>
                  </div>
@@ -92,6 +99,13 @@ const Experience = () => {
                  <div>
                  <h4>C/C++</h4>
                  <small className='text-light'>Advanced</small>
+                 </div>
+              </article>
+              <article className='experience_details'>
+                 <BsCloudCheckFill className='experience_details-icon' />
+                 <div>
+                 <h4>Python</h4>
+                 <small className='text-light'>Intermediate</small>
                  </div>
               </article>
             </div>

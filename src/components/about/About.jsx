@@ -30,6 +30,8 @@ const About = () => {
                 <FcReadingEbook className='about_icon'/>
                 <h5>Work</h5>
                 <small>Upcoming Senior Analyst @capgemini</small>
+                <br></br>
+                <small>Data Analyst Intern @L&T Infotech</small>
               </article>
               <article className='about_card'>
                 <IoIosFitness className='about_icon'/>
